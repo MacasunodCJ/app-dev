@@ -6,7 +6,7 @@ My first repository
 
 # **Hometown Cha-Cha-Cha**
 
-## `Comedy`   `Drama`   `Romance`
+`Comedy`     `Drama`     `Romance`
 
 ## *Description*
 Hometown Cha-Cha-Cha is a romantic TV series about a professional woman who leaves her dental practice in Seoul and moves to a seaside village. There she meets a local resident who is unemployed but seems to do everything around town, from helping those in need, to being a part of everyone's life. The two become interested in each other despite their differences.
