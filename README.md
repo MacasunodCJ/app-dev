@@ -1,8 +1,8 @@
 # app-dev
 My first repository
 
-![alt text](![wp10109766](https://github.com/MacasunodCJ/app-dev/assets/152269275/fa4d3531-3809-4ffc-b05f-1e5802d1bfdf)
-image.jpg)
+![wp10109766](https://github.com/MacasunodCJ/app-dev/assets/152269275/42c058b1-4abd-439b-9425-7dad2a02358c)
+
 
 # **Hometown Cha-Cha-Cha**
 
