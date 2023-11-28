@@ -1,12 +1,12 @@
 # app-dev
 My first repository
 
-### **Hometown Cha-Cha-Cha**
+# **Hometown Cha-Cha-Cha**
 
 ## *Description*
 Hometown Cha-Cha-Cha is a romantic TV series about a professional woman who leaves her dental practice in Seoul and moves to a seaside village. There she meets a local resident who is unemployed but seems to do everything around town, from helping those in need, to being a part of everyone's life. The two become interested in each other despite their differences.
 
-## *Casts*
+### *Casts*
 1. Shin Min Ah as Yoon Hye Jin
 2. Kim Seon Ho as Hong Doo Shik
 3. Cha Chung Hwa as Jo Nam Sook
