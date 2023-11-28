@@ -15,4 +15,3 @@ Hometown Cha-Cha-Cha is a romantic TV series about a professional woman who leav
 6. Kim Min Seo as Oh Ju Ri
 7. Kim Young Ok as Kim Ga Ri
 8. Lee Sang Yi as Ji Sung Hyun
-9. etc.
